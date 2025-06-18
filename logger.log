@@ -1,0 +1,295 @@
+2025-03-28 16:08:38,233 - ERROR: PowerBI open/refresh error: (-2147221005, 'Invalid class string', None, None)
+2025-03-28 16:09:26,960 - ERROR: PowerBI open/refresh error: (-2147221005, 'Invalid class string', None, None)
+2025-03-28 16:10:57,127 - INFO: PowerBI opened successfully
+2025-03-28 16:10:57,763 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_161057.png
+2025-03-28 16:13:17,577 - INFO: PowerBI opened silently in background
+2025-03-28 16:13:17,657 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_161317.png
+2025-03-28 16:14:25,380 - INFO: PowerBI opened successfully
+2025-03-28 16:14:25,505 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_161425.png
+2025-03-28 16:18:57,033 - ERROR: PowerBI refresh error: (-2147221005, 'Invalid class string', None, None)
+2025-03-28 16:18:57,034 - ERROR: PowerBI refresh failed. Workflow aborted.
+2025-03-28 16:23:18,413 - INFO: Attempting COM interface refresh method
+2025-03-28 16:23:18,418 - ERROR: COM interface refresh failed: (-2147221005, 'Invalid class string', None, None)
+2025-03-28 16:23:18,418 - ERROR: PowerBI Desktop window not found
+2025-03-28 16:23:18,418 - INFO: Attempting Ctrl+R keyboard shortcut refresh method
+2025-03-28 16:23:18,418 - ERROR: Keyboard shortcut refresh failed: name 'win32api' is not defined
+2025-03-28 16:23:18,418 - ERROR: All PowerBI refresh methods failed
+2025-03-28 16:23:18,418 - ERROR: PowerBI refresh failed. Workflow aborted.
+2025-03-28 16:24:55,417 - ERROR: Workflow error: 'PowerBIScreenshotEmailer' object has no attribute 'open_and_refresh_powerbi'
+2025-03-28 16:25:31,784 - ERROR: Workflow error: 'PowerBIScreenshotEmailer' object has no attribute 'open_and_refresh_powerbi'
+2025-03-28 16:26:59,196 - INFO: PowerBI opened successfully
+2025-03-28 16:26:59,314 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_162659.png
+2025-03-28 16:30:59,358 - INFO: PowerBI opened successfully
+2025-03-28 16:31:05,584 - INFO: PowerBI data refreshed successfully
+2025-03-28 16:31:05,691 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_163105.png
+2025-03-28 16:59:53,140 - INFO: PowerBI opened successfully
+2025-03-28 17:00:04,565 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:00:04,611 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_170004.png
+2025-03-28 17:09:26,442 - INFO: PowerBI opened successfully
+2025-03-28 17:09:42,274 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:09:42,441 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_170942.png
+2025-03-28 17:10:57,768 - INFO: PowerBI opened successfully
+2025-03-28 17:11:13,605 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:11:13,714 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_171113.png
+2025-03-28 17:15:31,755 - INFO: PowerBI opened successfully
+2025-03-28 17:15:47,588 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:15:47,675 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_171547.png
+2025-03-28 17:17:55,314 - INFO: PowerBI opened successfully
+2025-03-28 17:18:11,153 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:18:11,234 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_171811.png
+2025-03-28 17:19:28,840 - INFO: PowerBI opened successfully
+2025-03-28 17:19:44,679 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:19:44,757 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_171944.png
+2025-03-28 17:20:42,462 - INFO: PowerBI opened successfully
+2025-03-28 17:20:58,293 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:20:58,424 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_172058.png
+2025-03-28 17:21:44,507 - INFO: PowerBI opened successfully
+2025-03-28 17:22:00,335 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:22:00,442 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_172200.png
+2025-03-28 17:24:14,166 - INFO: PowerBI opened successfully
+2025-03-28 17:24:30,013 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:24:30,091 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_172430.png
+2025-03-28 17:26:35,476 - INFO: PowerBI opened successfully
+2025-03-28 17:26:51,313 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:26:51,373 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_172651.png
+2025-03-28 17:28:14,208 - INFO: PowerBI opened successfully
+2025-03-28 17:28:30,047 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:28:30,143 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_172830.png
+2025-03-28 17:30:01,939 - INFO: PowerBI opened successfully
+2025-03-28 17:30:17,774 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:30:17,855 - INFO: Screenshot saved: D:\Temp_scripts\powerbi_dashboard_20250328_173017.png
+2025-03-28 17:35:12,225 - INFO: PowerBI opened successfully
+2025-03-28 17:35:28,050 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:35:28,085 - ERROR: Screenshot capture error: [Errno 2] No such file or directory: 'D:\\Temp_scripts\\screenshots\\powerbi_dashboard_20250328_173528.png'
+2025-03-28 17:37:22,309 - INFO: PowerBI opened successfully
+2025-03-28 17:37:38,132 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:37:38,215 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_173738.png
+2025-03-28 17:49:33,538 - INFO: PowerBI opened successfully
+2025-03-28 17:49:49,536 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:49:49,607 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_174949.png
+2025-03-28 17:55:53,864 - INFO: PowerBI opened successfully
+2025-03-28 17:56:05,458 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:56:08,769 - INFO: PowerBI data saved successfully
+2025-03-28 17:56:08,851 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_175608.png
+2025-03-28 17:57:02,754 - INFO: PowerBI opened successfully
+2025-03-28 17:57:14,269 - INFO: PowerBI data refreshed successfully
+2025-03-28 17:57:17,578 - INFO: PowerBI data saved successfully
+2025-03-28 17:57:17,680 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_175717.png
+2025-03-28 18:00:06,355 - INFO: PowerBI opened successfully
+2025-03-28 18:00:17,872 - INFO: PowerBI data refreshed successfully
+2025-03-28 18:00:21,182 - INFO: PowerBI data saved successfully
+2025-03-28 18:00:21,270 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_180021.png
+2025-03-28 18:07:20,160 - INFO: PowerBI opened successfully
+2025-03-28 18:07:31,683 - INFO: PowerBI data refreshed successfully
+2025-03-28 18:07:34,992 - INFO: PowerBI data saved successfully
+2025-03-28 18:07:35,088 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_180735.png
+2025-03-28 18:11:00,842 - INFO: PowerBI opened successfully
+2025-03-28 18:11:12,364 - INFO: PowerBI data refreshed successfully
+2025-03-28 18:11:16,377 - INFO: PowerBI data saved successfully
+2025-03-28 18:11:16,457 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_181116.png
+2025-03-28 18:20:38,483 - INFO: PowerBI opened successfully
+2025-03-28 18:20:50,024 - INFO: PowerBI data refreshed successfully
+2025-03-28 18:20:54,697 - INFO: PowerBI data saved successfully
+2025-03-28 18:20:54,790 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_182054.png
+2025-03-28 18:23:24,134 - INFO: PowerBI opened successfully
+2025-03-28 18:23:35,655 - INFO: PowerBI data refreshed successfully
+2025-03-28 18:23:40,333 - INFO: PowerBI data saved successfully
+2025-03-28 18:23:40,448 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250328_182340.png
+2025-03-31 14:18:59,333 - INFO: PowerBI opened successfully
+2025-03-31 14:19:10,850 - INFO: PowerBI data refreshed successfully
+2025-03-31 14:19:15,965 - INFO: PowerBI data saved successfully
+2025-03-31 14:19:16,094 - INFO: Screenshot saved: D:\Temp_scripts\screenshots\powerbi_dashboard_20250331_141916.png
+2025-04-03 19:28:02,813 - INFO: PowerBI opened successfully
+2025-04-03 19:28:45,748 - INFO: PowerBI opened successfully
+2025-04-03 19:28:57,266 - INFO: PowerBI data refreshed successfully
+2025-04-03 19:29:02,386 - INFO: PowerBI data saved successfully
+2025-04-03 19:29:02,480 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250403_192902.png
+2025-04-15 20:22:30,775 - INFO: PowerBI opened successfully
+2025-04-15 20:22:42,295 - INFO: PowerBI data refreshed successfully
+2025-04-15 20:22:47,410 - INFO: PowerBI data saved successfully
+2025-04-15 20:22:47,503 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_202247.png
+2025-04-15 20:26:25,580 - INFO: PowerBI opened successfully
+2025-04-15 20:26:37,100 - INFO: PowerBI data refreshed successfully
+2025-04-15 20:26:42,219 - INFO: PowerBI data saved successfully
+2025-04-15 20:26:42,297 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_202642.png
+2025-04-15 20:28:48,405 - INFO: PowerBI opened successfully
+2025-04-15 20:28:59,930 - INFO: PowerBI data refreshed successfully
+2025-04-15 20:29:05,054 - INFO: PowerBI data saved successfully
+2025-04-15 20:29:05,142 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_202905.png
+2025-04-15 20:30:04,080 - INFO: PowerBI opened successfully
+2025-04-15 20:30:15,603 - INFO: PowerBI data refreshed successfully
+2025-04-15 20:30:20,724 - INFO: PowerBI data saved successfully
+2025-04-15 20:30:20,820 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_203020.png
+2025-04-15 20:34:20,803 - INFO: PowerBI opened successfully
+2025-04-15 20:34:32,325 - INFO: PowerBI data refreshed successfully
+2025-04-15 20:34:37,437 - INFO: PowerBI data saved successfully
+2025-04-15 20:34:37,529 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_203437.png
+2025-04-15 20:34:37,530 - ERROR: Workflow error: name 'send_email_with_image' is not defined
+2025-04-15 20:40:36,162 - INFO: PowerBI opened successfully
+2025-04-15 20:40:47,682 - INFO: PowerBI data refreshed successfully
+2025-04-15 20:40:52,805 - INFO: PowerBI data saved successfully
+2025-04-15 20:40:52,856 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_204052.png
+2025-04-15 20:40:52,857 - ERROR: Workflow error: name 'send_email_with_image' is not defined
+2025-04-15 20:42:34,283 - INFO: PowerBI opened successfully
+2025-04-15 20:42:45,798 - INFO: PowerBI data refreshed successfully
+2025-04-15 20:42:50,921 - INFO: PowerBI data saved successfully
+2025-04-15 20:42:51,032 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_204250.png
+2025-04-15 20:42:51,033 - ERROR: Workflow error: name 'send_email_with_image' is not defined
+2025-04-15 20:44:08,245 - INFO: PowerBI opened successfully
+2025-04-15 20:44:19,765 - INFO: PowerBI data refreshed successfully
+2025-04-15 20:44:24,889 - INFO: PowerBI data saved successfully
+2025-04-15 20:44:24,982 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_204424.png
+2025-04-15 21:02:58,800 - INFO: PowerBI opened successfully
+2025-04-15 21:03:10,325 - INFO: PowerBI data refreshed successfully
+2025-04-15 21:03:15,442 - INFO: PowerBI data saved successfully
+2025-04-15 21:03:15,513 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250415_210315.png
+2025-04-16 13:28:02,671 - INFO: PowerBI opened successfully
+2025-04-16 13:28:14,283 - INFO: PowerBI data refreshed successfully
+2025-04-16 13:28:19,429 - INFO: PowerBI data saved successfully
+2025-04-16 13:28:19,664 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250416_132819.png
+2025-04-16 13:31:25,318 - INFO: PowerBI opened successfully
+2025-04-16 13:31:36,847 - INFO: PowerBI data refreshed successfully
+2025-04-16 13:31:42,100 - INFO: PowerBI data saved successfully
+2025-04-16 13:31:42,374 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250416_133142.png
+2025-04-16 13:33:30,987 - INFO: PowerBI opened successfully
+2025-04-16 13:33:42,519 - INFO: PowerBI data refreshed successfully
+2025-04-16 13:33:47,658 - INFO: PowerBI data saved successfully
+2025-04-16 13:33:47,875 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250416_133347.png
+2025-04-16 13:35:51,926 - INFO: PowerBI opened successfully
+2025-04-16 13:36:03,497 - INFO: PowerBI data refreshed successfully
+2025-04-16 13:36:08,844 - INFO: PowerBI data saved successfully
+2025-04-16 13:36:09,101 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250416_133608.png
+2025-04-16 13:44:43,043 - INFO: PowerBI opened successfully
+2025-04-16 13:44:54,593 - INFO: PowerBI data refreshed successfully
+2025-04-16 13:44:59,823 - INFO: PowerBI data saved successfully
+2025-04-16 13:45:00,071 - INFO: Screenshot saved: D:\utils_scripts\screenshots\powerbi_dashboard_20250416_134459.png
+2025-04-16 16:02:07,135 - INFO: PowerBI opened successfully
+2025-04-16 16:02:18,663 - INFO: PowerBI data refreshed successfully
+2025-04-16 16:02:23,783 - INFO: PowerBI data saved successfully
+2025-04-16 16:02:23,872 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_160223.png
+2025-04-16 16:04:16,804 - INFO: PowerBI opened successfully
+2025-04-16 16:04:28,326 - INFO: PowerBI data refreshed successfully
+2025-04-16 16:04:33,445 - INFO: PowerBI data saved successfully
+2025-04-16 16:04:33,545 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_160433.png
+2025-04-16 16:07:17,701 - INFO: PowerBI opened successfully
+2025-04-16 16:07:29,216 - INFO: PowerBI data refreshed successfully
+2025-04-16 16:07:34,335 - INFO: PowerBI data saved successfully
+2025-04-16 16:07:34,403 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_160734.png
+2025-04-16 16:10:11,902 - INFO: PowerBI opened successfully
+2025-04-16 16:10:23,423 - INFO: PowerBI data refreshed successfully
+2025-04-16 16:10:28,603 - INFO: PowerBI data saved successfully
+2025-04-16 16:10:28,698 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_161028.png
+2025-04-16 16:11:29,734 - INFO: PowerBI opened successfully
+2025-04-16 16:11:41,263 - INFO: PowerBI data refreshed successfully
+2025-04-16 16:11:46,382 - INFO: PowerBI data saved successfully
+2025-04-16 16:11:46,478 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_161146.png
+2025-04-16 16:17:38,768 - INFO: PowerBI opened successfully
+2025-04-16 16:17:50,293 - INFO: PowerBI data refreshed successfully
+2025-04-16 16:17:55,415 - INFO: PowerBI data saved successfully
+2025-04-16 16:17:55,598 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_161755.png
+2025-04-16 16:17:55,599 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250416_161755.png
+2025-04-16 16:19:19,961 - INFO: PowerBI opened successfully
+2025-04-16 16:19:31,488 - INFO: PowerBI data refreshed successfully
+2025-04-16 16:19:36,612 - INFO: PowerBI data saved successfully
+2025-04-16 16:19:36,790 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_161936.png
+2025-04-16 16:19:36,790 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250416_161936.png
+2025-04-16 16:21:01,968 - INFO: PowerBI opened successfully
+2025-04-16 16:21:13,486 - INFO: PowerBI data refreshed successfully
+2025-04-16 16:21:18,611 - INFO: PowerBI data saved successfully
+2025-04-16 16:21:18,761 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_162118.png
+2025-04-16 16:21:18,761 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250416_162118.png
+2025-04-16 20:17:00,730 - INFO: PowerBI opened successfully
+2025-04-16 20:17:12,253 - INFO: PowerBI data refreshed successfully
+2025-04-16 20:17:17,373 - INFO: PowerBI data saved successfully
+2025-04-16 20:17:17,579 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250416_201717.png
+2025-04-16 20:17:17,579 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250416_201717.png
+2025-04-17 20:39:32,423 - INFO: PowerBI opened successfully
+2025-04-17 20:39:43,962 - INFO: PowerBI data refreshed successfully
+2025-04-17 20:39:49,087 - INFO: PowerBI data saved successfully
+2025-04-17 20:39:49,289 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250417_203949.png
+2025-04-17 20:39:49,289 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250417_203949.png
+2025-04-21 19:24:41,859 - INFO: PowerBI opened successfully
+2025-04-21 19:24:53,384 - INFO: PowerBI data refreshed successfully
+2025-04-21 19:24:58,497 - INFO: PowerBI data saved successfully
+2025-04-21 19:24:58,672 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250421_192458.png
+2025-04-21 19:24:58,672 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250421_192458.png
+2025-04-21 19:27:46,989 - INFO: PowerBI opened successfully
+2025-04-21 19:27:58,511 - INFO: PowerBI data refreshed successfully
+2025-04-21 19:28:03,734 - INFO: PowerBI data saved successfully
+2025-04-21 19:28:03,923 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250421_192803.png
+2025-04-21 19:28:03,925 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250421_192803.png
+2025-05-05 19:33:47,714 - INFO: PowerBI opened successfully
+2025-05-05 19:33:59,240 - INFO: PowerBI data refreshed successfully
+2025-05-05 19:34:04,545 - INFO: PowerBI data saved successfully
+2025-05-05 19:34:04,770 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250505_193404.png
+2025-05-05 19:34:04,770 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250505_193404.png
+2025-05-05 19:52:19,222 - INFO: PowerBI opened successfully
+2025-05-05 19:52:30,734 - INFO: PowerBI data refreshed successfully
+2025-05-05 19:52:35,961 - INFO: PowerBI data saved successfully
+2025-05-05 19:52:36,086 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250505_195236.png
+2025-05-05 19:52:36,086 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250505_195236.png
+2025-05-05 19:53:36,522 - INFO: PowerBI opened successfully
+2025-05-05 19:53:48,037 - INFO: PowerBI data refreshed successfully
+2025-05-05 19:53:53,255 - INFO: PowerBI data saved successfully
+2025-05-05 19:53:53,415 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250505_195353.png
+2025-05-05 19:53:53,416 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250505_195353.png
+2025-05-05 19:57:12,538 - INFO: PowerBI opened successfully
+2025-05-05 19:57:24,049 - INFO: PowerBI data refreshed successfully
+2025-05-05 19:57:29,268 - INFO: PowerBI data saved successfully
+2025-05-05 19:57:29,430 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250505_195729.png
+2025-05-05 19:57:29,430 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250505_195729.png
+2025-05-06 20:19:46,190 - INFO: PowerBI opened successfully
+2025-05-06 20:19:57,709 - INFO: PowerBI data refreshed successfully
+2025-05-06 20:20:02,938 - INFO: PowerBI data saved successfully
+2025-05-06 20:20:03,094 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250506_202003.png
+2025-05-06 20:20:03,094 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250506_202003.png
+2025-05-06 20:20:03,297 - INFO: Switched tab by clicking at (474, 1033)
+2025-05-06 20:20:05,392 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\trend_screenshots\powerbi_dashboard_20250506_202005.png
+2025-05-06 20:20:05,601 - INFO: Switched tab by clicking at (276, 1022)
+2025-05-06 20:27:56,869 - INFO: PowerBI opened successfully
+2025-05-06 20:28:08,394 - INFO: PowerBI data refreshed successfully
+2025-05-06 20:28:13,624 - INFO: PowerBI data saved successfully
+2025-05-06 20:28:13,786 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250506_202813.png
+2025-05-06 20:28:13,786 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250506_202813.png
+2025-05-06 20:28:13,995 - INFO: Switched tab by clicking at (474, 1033)
+2025-05-06 20:28:16,107 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\trend_screenshots\powerbi_dashboard_20250506_202816.png
+2025-05-06 20:28:16,310 - INFO: Switched tab by clicking at (276, 1022)
+2025-05-06 20:32:16,131 - INFO: PowerBI opened successfully
+2025-05-06 20:32:27,653 - INFO: PowerBI data refreshed successfully
+2025-05-06 20:32:32,880 - INFO: PowerBI data saved successfully
+2025-05-06 20:32:33,042 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250506_203232.png
+2025-05-06 20:32:33,043 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250506_203232.png
+2025-05-06 20:32:33,252 - INFO: Switched tab by clicking at (474, 1033)
+2025-05-06 20:32:35,282 - ERROR: Screenshot capture error: cannot access local variable 'screenshot' where it is not associated with a value
+2025-05-06 20:39:09,187 - INFO: PowerBI opened successfully
+2025-05-06 20:39:20,710 - INFO: PowerBI data refreshed successfully
+2025-05-06 20:39:25,937 - INFO: PowerBI data saved successfully
+2025-05-06 20:39:26,124 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250506_203926.png
+2025-05-06 20:39:26,125 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250506_203926.png
+2025-05-06 20:39:26,330 - INFO: Switched tab by clicking at (474, 1033)
+2025-05-06 20:39:28,422 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\trend_screenshots\powerbi_dashboard_20250506_203928.png
+2025-05-06 20:39:28,626 - INFO: Switched tab by clicking at (276, 1022)
+2025-05-06 20:42:51,709 - INFO: PowerBI opened successfully
+2025-05-06 20:43:03,226 - INFO: PowerBI data refreshed successfully
+2025-05-06 20:43:08,454 - INFO: PowerBI data saved successfully
+2025-05-06 20:43:08,624 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250506_204308.png
+2025-05-06 20:43:08,625 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250506_204308.png
+2025-05-06 20:43:08,834 - INFO: Switched tab by clicking at (474, 1033)
+2025-05-06 20:43:10,932 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\trend_screenshots\powerbi_dashboard_20250506_204310.png
+2025-05-06 20:43:11,136 - INFO: Switched tab by clicking at (276, 1022)
+2025-05-07 13:34:54,466 - INFO: PowerBI opened successfully
+2025-05-07 13:35:06,002 - INFO: PowerBI data refreshed successfully
+2025-05-07 13:35:11,281 - INFO: PowerBI data saved successfully
+2025-05-07 13:35:11,474 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250507_133511.png
+2025-05-07 13:35:11,474 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250507_133511.png
+2025-05-07 13:35:11,682 - INFO: Switched tab by clicking at (474, 1033)
+2025-05-07 13:35:13,775 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\trend_screenshots\powerbi_dashboard_20250507_133513.png
+2025-05-07 13:35:13,987 - INFO: Switched tab by clicking at (276, 1022)
+2025-05-28 15:49:34,725 - INFO: PowerBI opened successfully
+2025-05-28 15:49:46,259 - INFO: PowerBI data refreshed successfully
+2025-05-28 15:49:51,490 - INFO: PowerBI data saved successfully
+2025-05-28 15:49:51,679 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\screenshots\powerbi_dashboard_20250528_154951.png
+2025-05-28 15:49:51,680 - INFO: Screenshot for analysis saved: D:\Utils_scripts\PowerBI_SS\analysis_ss\powerbi_dashboard_20250528_154951.png
+2025-05-28 15:49:51,887 - INFO: Switched tab by clicking at (474, 1033)
+2025-05-28 15:49:54,013 - INFO: Screenshot saved: D:\Utils_scripts\PowerBI_SS\trend_screenshots\powerbi_dashboard_20250528_154953.png
+2025-05-28 15:49:54,215 - INFO: Switched tab by clicking at (276, 1022)
